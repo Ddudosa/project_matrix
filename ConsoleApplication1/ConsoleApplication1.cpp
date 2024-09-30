@@ -89,6 +89,7 @@ unsigned countValueInCol(int** mas, unsigned n, unsigned m, int value, unsigned 
 }
 
 // основная программа
+// :)
 int main()
 {
 	int** mas = nullptr, n = 4, m = 4;
